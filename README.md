@@ -56,7 +56,7 @@
 ## Stay Updated
 *Halinos: The Eternal Quest* is in pre-alpha development. Follow us for updates, news, and exclusive content!
 
-For inquiries, reach out to **[Your Contact Email Here]**.
+For inquiries, reach out to **[hello@halinos.com]**.
 
 ---
 **Note:** This game is currently in development. This repository is for informational purposes only. Access to source code and game files is restricted.
